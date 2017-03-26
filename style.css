@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+.everything {
+  text-align:center;
+  align-content: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+p {
+  font-size: 20px;
+  color: #ff4040;
+}
